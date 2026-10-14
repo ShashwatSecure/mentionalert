@@ -1,2 +1,0 @@
-"""LangGraph agent definition."""
-
