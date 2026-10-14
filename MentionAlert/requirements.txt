@@ -1,0 +1,5 @@
+numpy
+soundcard
+faster-whisper
+cryptography
+pytest

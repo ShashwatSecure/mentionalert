@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+pgdata/
+data/raw/
+*.pdf
+.pytest_cache/
+.ruff_cache/
+
